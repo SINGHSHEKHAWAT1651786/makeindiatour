@@ -1,4 +1,4 @@
-# Blue Hawks — Indian Tourism Showcase
+# Make India Tour — Indian Tourism Showcase
 
 **Completed by AI tools**
 
