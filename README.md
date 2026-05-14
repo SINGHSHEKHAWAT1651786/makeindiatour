@@ -1,6 +1,6 @@
 # Make India Tour — Indian Tourism Showcase
 
-**Completed by AI tools**
+**Created by AI tools**
 
 A premium cinematic tourism showcase website for **Blue Hawks**, built as a modern lead-generation travel brand experience for **makeindiatour.com**.
 
